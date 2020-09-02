@@ -17,7 +17,7 @@
         "../scss/components/_footer.scss",
         "../scss/components/_modal.scss",
         "../scss/components/_footer-logo.scss",
-        "../scss/components/_portfolio.scss"
+        "../scss/portfolio/_portfolio.scss"
     ],
     "names": [],
     "file": "main.css"
